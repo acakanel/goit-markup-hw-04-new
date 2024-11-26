@@ -443,11 +443,21 @@ a {
   margin-right: 120px;
 }
 
+.footer-media-text {
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+  margin-bottom: 16px;
+}
+
 .footer-text {
   line-height: 1.5;
   color: #f4f4fd;
   letter-spacing: 0.02em;
   max-width: 264px;
+  font-weight: 500;
+  line-height: 1.5;
 }
 
 .footer-span {
